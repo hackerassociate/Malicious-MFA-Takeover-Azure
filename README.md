@@ -44,3 +44,18 @@ Modern Authentication: Uses Microsoft Graph PowerShell SDK instead of the deprec
 - Informative error messages
 
 
+## Installation Steps
+
+1. **Download the Script**
+   Save the script to your system using `git clone <reponame>`
+
+
+2. **Run it in PowerShell with administrator privileges**
+
+3. **It will prompt to install required modules if needed**
+
+4. **It will connect to Microsoft Graph with proper permissions**
+
+5. **It will generate a CSV report with the results**
+
+
