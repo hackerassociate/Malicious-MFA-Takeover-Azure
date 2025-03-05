@@ -25,3 +25,10 @@ Modern Authentication: Uses Microsoft Graph PowerShell SDK instead of the deprec
 - Windows Hello for Business
 - Software OATH Tokens
 - Email Authentication
+
+### Better UI Experience 
+
+- Progress bar for processing users
+- Automatic module installation if required
+- Summary statistics at the end
+- CSV export with timestamp
