@@ -18,10 +18,10 @@ Modern Authentication: Uses Microsoft Graph PowerShell SDK instead of the deprec
 
 ### Features
 
-Enhanced MFA Detection: Detects various authentication methods including:
-Microsoft Authenticator App
-Phone Authentication (SMS/Voice)
-FIDO2 Security Keys
-Windows Hello for Business
-Software OATH Tokens
-Email Authentication
+## Enhanced MFA Detection: Detects various authentication methods including:
+- Microsoft Authenticator App
+- Phone Authentication (SMS/Voice)
+- FIDO2 Security Keys
+- Windows Hello for Business
+- Software OATH Tokens
+- Email Authentication
