@@ -32,3 +32,15 @@ Modern Authentication: Uses Microsoft Graph PowerShell SDK instead of the deprec
 - Automatic module installation if required
 - Summary statistics at the end
 - CSV export with timestamp
+
+### Security Improvements:
+
+- Uses modern authentication with proper scopes
+- Properly disconnects from Microsoft Graph when done
+
+### Error Handling:
+
+- Comprehensive error handling throughout the script
+- Informative error messages
+
+
