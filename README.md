@@ -12,9 +12,15 @@ This PowerShell script is designed for malicious purposes to facilitate MFA acco
 ## Overview
 Use Harshad Powershell Latest Script [ We  have created a new script which used microsoft graph API to get all the information and export  the file in CSV format ]. It will look for dormant accounts.
 
+# 📸 Screenshots
+
+![Console Interface](https://github.com/hackerassociate/Malicious-MFA-Takeover-Azure/blob/main/Malicious-MFA-Takeover.png)
+
 ## Main Interface
 
 Modern Authentication: Uses Microsoft Graph PowerShell SDK instead of the deprecated MSOnline or AzureAD modules
+
+
 
 ## Features
 
