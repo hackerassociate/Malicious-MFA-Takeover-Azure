@@ -9,16 +9,16 @@ This PowerShell script is designed for malicious purposes to facilitate MFA acco
 
 ### [HackerAssociate](https://hackerassociate.com) | [BlackHatTrainings](https://blackhattrainings.com)
 
-### Overview
+## Overview
 Use Harshad Powershell Latest Script [ We  have created a new script which used microsoft graph API to get all the information and export  the file in CSV format ]. It will look for dormant accounts.
 
-### Main Interface
+## Main Interface
 
 Modern Authentication: Uses Microsoft Graph PowerShell SDK instead of the deprecated MSOnline or AzureAD modules
 
-### Features
+## Features
 
-## Enhanced MFA Detection: Detects various authentication methods including:
+### Enhanced MFA Detection: Detects various authentication methods including:
 - Microsoft Authenticator App
 - Phone Authentication (SMS/Voice)
 - FIDO2 Security Keys
